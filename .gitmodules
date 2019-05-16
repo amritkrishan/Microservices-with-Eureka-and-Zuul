@@ -1,0 +1,15 @@
+[submodule "discovery"]
+	path = discovery
+	url = https://github.com/amritkrishan/discovery.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/amritkrishan/gateway.git
+[submodule "application-config"]
+	path = application-config
+	url = https://github.com/amritkrishan/application-config.git
+[submodule "service1"]
+	path = service1
+	url = https://github.com/amritkrishan/service1.git
+[submodule "service2"]
+	path = service2
+	url = https://github.com/amritkrishan/service2.git
